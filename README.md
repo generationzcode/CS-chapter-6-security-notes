@@ -13,6 +13,8 @@
 *  Phishing - sending fake emails to trick people into sending you their identity details
 *  Symmetric encryption - an encryption system where the encryption key is knonwn by both sides of the communication
 ## Accidental Damage And Malicious Actions On Data
+*  data is an asset to a bussiness
+*  a bussiness invests time and money into collecting data
 ### Data loss
 *  Data can be lost by mislaying the data storage device or accidentally deleting it
 *  This can severely affect bussinesses. For example the data loss of a database of customers bank details would mean the company will not be able to get money from its consumers
@@ -30,3 +32,22 @@
 *  Someone doing this would be "hacking"
 *  Doing this would be a threat to the data integrity
 *  some people might want to do this to increase the amount of money in their bank accounts
+### Internal threats to data
+#### Hardware fault
+*  faults in storage devices or media can result in data loss.
+*  the computer may be damaged by careless handling
+*  there may be a fire in the computer
+*  cables might have problems
+*  A backup if the can be a good solution to these issues
+#### Software fault
+*  Software faults can cause the data to be corrupted or accidentally deleted
+*  it can give out the wrong outputs causing corruption
+*  It can accidentally delete data or send it to a person who doesnt have permission to see it
+*  These can be prevented by testing software before using it
+### External threats
+*  earthquakes,power cuts, floods
+*  social unrest
+*  companies solve such problems by having backup of data and power generators in case of power loss
+*  crime and malpractice
+*  computer viruses and other malware
+*  hackers (computer hackers)
