@@ -122,3 +122,49 @@ malware run in executable files. These run on your computer without you noticing
 ##### disadvantages:
 *  requires special equipment
 *  cards can be lost or stolen
+### routers
+*  A LAN is something that connects all computers in a network
+*  A LAN is connected to the internet through a router
+### proxy servers
+*  A proxy server handles all communications between the two computers or networks
+*  A user will request data from the internet, the proxy server will take that data from the internet and the user wil get that data from the proxy server
+*  proxy server a lot like a middle man
+*  the user does not make a connection directly to the web page
+*  proxy server speeds up the connection. After going to a website once, it keeps that data stored
+*  people who run the proxy server can look at the websites people look at
+*  privacy for the user. no direct connection to the website
+*  safer. All content can be checked before it is passed to the user
+### firewalls
+*  barrier between LAN and internet
+*  it will only pass data that it checks and sees that its safe
+*  hardware firewalls are pieces of hardware. They have processors. The wired or wireless link must pass through the firewall to get into the network
+*  software firewalls are sets of instructions that tell the processor what to do with the signals . A software firewall will have rules to tell the difference between safe data and dangerous malware
+### Open Systems interconnection(OSI)
+*  A protocol is a standard of communication
+*  the OSI model describes these protocols
+*  layer 1 for hardware and layer 2 for transmitting binary digits
+### Transport layer
+*  this is layer 4 of the OSI  mode. It has protocols for how two devices at either end of a communication link talk to each other
+*  transport protocols control the end-to-end communications, not the links in between. The TCP/IP protocolis part of the transport layer
+### Transport layer security
+*  transport layer protocol controls communication between two distant decvices
+*  it makes the communication private
+*  The TLS has 2 parts - tls record protocol(standard to break the communication up into records) and the tls handshake
+### TLS handshake
+*  The TLS handshake is a signal sent between two devices at the start of communication. 
+*  The handshake protocol lets each device check that the other is genuine
+*  A genuine website has a certificate issued by a recognised certificate authority
+*  during the handshake the certificate is checked
+*  during this handshake an encryption key is exchanged
+### CA (certification authority)
+*  authentication is important in the TLS handshake
+*  Certificates are issued by a certification authority. An example of a CA is Verisign
+*  If a business requests for a certificate from a CA, it will check the business and see if it really does what it says it is doing
+*  It will check the bussiness regularly. If it is doing any fraud it will revoke the certificate
+*  Your computer has a list of trusted CAs. If the website has a certificate from one of these CAs, then the certificate is good and communication an proceed on safety
+### SSL(secure sockets layer)
+*  this was the protocol used before TLS
+*  it is less secure than TLS
+*  it does the same thing as TLS
+*  You can only use either TLS or SSL
+when you go shopping, you need to provide your bank details. A criminal could abuse this and trick you into giving these details to him. The TLS protocol prevents this by checking whether the website you are using is real. Then it sends your bank details using encryption.
