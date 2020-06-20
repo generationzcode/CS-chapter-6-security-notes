@@ -82,3 +82,43 @@ malware run in executable files. These run on your computer without you noticing
 *  typically done by making a fake website
 *  website looks like that of a real company/bank
 *  They will ask for your personal details and then commit identity theft
+##  How data is kept safe when stored and transmitted
+*  proof of identity is used to control access to data
+*  it prevents identity theft
+*  the three main kinds are passwords,ID cards and Biometric checks
+### passwords:
+*  a password is a string of letters and numbers to prove who you are
+*  it can easily be typed in
+*  criminals will try a lot of combinations of passwords before they get the right one so use a complex password
+### ID cards:
+*  read by a special card reader.
+*  often used along with password(such as a 4 digit pascode)
+*  also often has a photograph on it as additional check
+### Biometric check:
+*  This is a record of physical characteristics used to confirm your identity
+*  features used include - fingerprint/thumb print/palm print, pattern of iris, features of face such as distance between eyes
+*  special equipment such as a palm reader, an iris scanner and a facial recognition system are used for these
+*  impossible to steal these features (like thumb print and iris)
+### Adtvantages and disadvantages of each
+#### passwords:
+##### advantages:
+*  easy to imput into device
+*  can be changed often
+##### disadvantages:
+*  easy to forget
+*  many use weak passwords
+#### Biometrics:
+##### advantages:
+*  You dont need to remember anything
+*  Uses features unique to you
+##### disadvantages:
+*  Requires special equipment
+*  More expensive than other options
+*  Cannot be changed if system is compromised
+#### ID card:
+##### advantages:
+*  can be changed or taken away if permissions change
+*  can be check by a person as well as computer
+##### disadvantages:
+*  requires special equipment
+*  cards can be lost or stolen
