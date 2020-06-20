@@ -51,3 +51,34 @@
 *  crime and malpractice
 *  computer viruses and other malware
 *  hackers (computer hackers)
+### Malpractice
+*  this means not doing your work properly usually by mistake
+*  mistakes might include:
+*  leaving the computer logged in when you go out of the room so that  someone else can access your files
+*  telling someone your credentials
+*  downloading trojan horses or opening damaged emails
+*  using work computers for personal bussiness causing higher chance of downloading malware
+### Crime
+*  piracy of movies/books/games without permission
+*  hacking
+*  creating and distributing malware
+*  identity theft
+*  damaging/stealing storage media or coputer not possessed by you
+malware run in executable files. These run on your computer without you noticing them
+## The need to keep online systems safe from attacks including denial of service attacks,phishing, pharming
+### DOS(denial of service attacks)
+*  denial of service attacks are a way of harming  a companies computer sevices by flooding them with more requests than they can handle. This makes them go very slowly and crash. Thus making it impossible for customers to contact the compnay because of how busy the servers are
+*  A normal denial of service attack can be bloacked easily by blocking tha address flooding the server
+*  A ditributed denial of service attack is much more serious (DDOS). This sends in millions of requests from many different computers making it impossible to block all of them
+### Identity theft
+*  This happens when a criminal finds out your personal details. They can pretend to be you online and do all sorts of things
+*  They can withdraw money from your bank account and then use that money to buys something
+### Phishing
+*  this is done by sending a fake email/message.
+*  it will look like its from a trusted company
+*  the fake email will ask you to send your credentials
+*  This is a trick the criminals want to commit identity theft
+### Pharming
+*  typically done by making a fake website
+*  website looks like that of a real company/bank
+*  They will ask for your personal details and then commit identity theft
