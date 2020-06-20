@@ -185,4 +185,8 @@ when you go shopping, you need to provide your bank details. A criminal could ab
 *  the private key is used to decrypt thr data
 *  suppose alice wants to send bob a message but eve is listening in. Alice sees Bob's pubic key (which is available to everyone) and encrypts the message. Bob decrypts the message with his private key. Eve who only has access to Bob's public key, not private key will now be able to decrpyt the data alice sends bob.
 *  assymetric encryption is slower than symmetric encryption. But slower
-## 
+## examples of these systems in use
+*  banking - online banks use encryption,passwords and security protocols so no one else can access your account
+*  ecommerce - these sites require you to prove your identity, encrypt your message and check if the site is real or not to be safe
+*  teleworking (working from home) - these have an secure link where all data is encrypted to your office so it is safe
+*  cloud services - these require passwords and have enryption
