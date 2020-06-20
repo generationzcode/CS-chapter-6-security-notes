@@ -168,3 +168,21 @@ malware run in executable files. These run on your computer without you noticing
 *  it does the same thing as TLS
 *  You can only use either TLS or SSL
 when you go shopping, you need to provide your bank details. A criminal could abuse this and trick you into giving these details to him. The TLS protocol prevents this by checking whether the website you are using is real. Then it sends your bank details using encryption.
+### Encryption
+*  plain text are ordinary words and numbers. It is insecure. Can be read by anyone
+*  cypher text is plain text that has been scrambled or changed by a secret formula.It is secure. Can only be read by the people who have the encryption key
+*  the process of converting plain text to cypher text is called encryption
+*  two stages of encryption are:encrypt -> decrypt
+*  the sender encrypts the message
+*  the reciever decrypts the message
+#### symmetric encryption
+*  in symmetric encryption the key is the same on both sides of communication. The key is kept secret.
+*  The issue with symmetric encryption is that the key must be sent through the internet before being used
+*  anyone with the key can intercept the messages
+#### asymmetric encryption
+*  in assymetric encryption there are two keys - the public and private key. The two are mathematically linked.A message encrypted with one key can only be decrypted with the other key
+*  the public key is used to encrypt the data
+*  the private key is used to decrypt thr data
+*  suppose alice wants to send bob a message but eve is listening in. Alice sees Bob's pubic key (which is available to everyone) and encrypts the message. Bob decrypts the message with his private key. Eve who only has access to Bob's public key, not private key will now be able to decrpyt the data alice sends bob.
+*  assymetric encryption is slower than symmetric encryption. But slower
+## 
